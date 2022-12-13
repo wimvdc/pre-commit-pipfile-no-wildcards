@@ -1,0 +1,6 @@
+- id: pipfile-no-wildcards
+  name: Check for wildcards in Pipfile
+  description: This hook checks for wildcards in Pipfile
+  entry: pipfile-no-wildcards
+  language: python
+  types: [python]
